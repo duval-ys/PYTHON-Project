@@ -21,3 +21,11 @@ The aim of this Udemy Python data analysis project is to analyze and visualize v
 
  Identify courses that were published in 2015.
 
+
+## Dataset used
+<a href="https://github.com/duval-ys/PYTHON-Project/blob/main/Project%2B7%2B-%2BUdemy%2BDataset.csv">dataset</a>
+
+
+## Workspace 
+<a href="https://github.com/duval-ys/PYTHON-Project/blob/main/Screenshot%202025-01-28%20131949.png">View Dashboard</a>
+
