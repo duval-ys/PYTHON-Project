@@ -27,5 +27,5 @@ The aim of this Udemy Python data analysis project is to analyze and visualize v
 
 
 ## Workspace 
-<a href="https://github.com/duval-ys/PYTHON-Project/blob/main/Screenshot%202025-01-28%20131949.png">View Dashboard</a>
+<a href="https://github.com/duval-ys/PYTHON-Project/blob/main/UDEMY%20ANALYSIS.ipynb">View Dashboard</a>
 
